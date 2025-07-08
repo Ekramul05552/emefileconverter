@@ -69,7 +69,7 @@ function App() {
               <div className="flex items-center gap-3">
                 <div className="p-2 bg-white rounded-lg shadow-sm">
                   <img 
-                    src="/Transparent logo copy.png" 
+                    src="/eme 320 X 320 px.jpg" 
                     alt="EME Air International" 
                     className="w-8 h-8 object-contain"
                   />
